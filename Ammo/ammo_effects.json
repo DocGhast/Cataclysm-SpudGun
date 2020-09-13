@@ -1,0 +1,17 @@
+[
+  {
+    "id": "Spud_HE",
+    "type": "ammo_effect",
+    "explosion": { "power": 40, "shrapnel": { "casing_mass": 10, "fragment_mass": 0.2 } }
+  },
+  {
+    "id": "Spud_I",
+    "type": "ammo_effect",
+    "aoe": { "field_type": "fd_fire", "intensity_min": 1, "intensity_max": 1, "size": 3 }
+  },
+  {
+    "id": "Spud_Acid",
+    "type": "ammo_effect",
+    "aoe": { "field_type": "fd_acid", "intensity_min": 2, "intensity_max": 3 }
+  }
+]

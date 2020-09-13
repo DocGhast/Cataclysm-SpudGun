@@ -1,0 +1,8 @@
+[
+	{
+    "type": "ammunition_type",
+    "id": "Spud",
+    "name": "Spudshot",
+    "default": "Spud_HE"
+  }
+]

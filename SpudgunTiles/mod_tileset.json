@@ -1,0 +1,24 @@
+{
+  "type": "mod_tileset",
+  "compatibility": [ "MSX++DEAD_PEOPLE", "UNDEAD_PEOPLE", "UNDEAD_PEOPLE_BASE" ],
+  "tile_info": [
+    {
+      "height": 32,
+      "width": 32
+    }
+  ],
+  "tiles-new": [
+    {
+      "file": "Spudguntiles/Spudgun.png",
+      "tiles": 
+      [
+        { "id": "Spudgun",        "fg": 1, "rotates": false },
+        { "id": "overlay_wielded_Spudgun",    "fg": 2, "rotates": false },
+		{ "id": "Spud_HE",        "fg": 3, "rotates": false },
+		{ "id": "Spud_A",        "fg": 4, "rotates": false },
+		{ "id": "Spud_Inc",        "fg": 5, "rotates": false },
+        { "id": "Spud",        "fg": 6, "rotates": false }
+      ]
+    }
+  ]
+}

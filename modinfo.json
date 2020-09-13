@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Spudgun",
+    "name": "Spudgun",
+    "authors": [ "DocGhast" ],
+    "description": "Craftable low level launcher type weapon, with improvised ammunitions.",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  }
+]

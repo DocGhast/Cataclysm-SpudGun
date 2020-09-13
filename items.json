@@ -1,0 +1,25 @@
+[
+  {
+    "id": "Spudgun",
+    "type": "GUN",
+    "symbol": "/",
+    "color": "green",
+    "name": { "str_sp": "Spudgun" },
+    "description": "A long tube with a resevoir and trigger mechanism. Fires improvised explosives, jars full of acid, and the occasional tuber.",
+    "price": 200,
+    "material": [ "plastic" ],
+    "flags": [ "NO_UNLOAD", "BACKBLAST", "NEVER_JAMS", "TRADER_AVOID" ],
+    "skill": "launcher",
+    "ammo": [ "Spud" ],
+    "weight": "700 g",
+    "volume": "2500 ml",
+    "price_postapoc": 20,
+    "bashing": 3,
+    "to_hit": -3,
+    "dispersion": 500,
+    "durability": 9,
+    "clip_size": 1,
+    "reload": 1500,
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "Spud": 1 } } ]
+  }
+]
