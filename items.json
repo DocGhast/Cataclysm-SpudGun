@@ -13,6 +13,7 @@
     "ammo": [ "Spud" ],
     "weight": "700 g",
     "volume": "2500 ml",
+    "longest_side": "1200 mm",
     "price_postapoc": 20,
     "bashing": 3,
     "to_hit": -3,
